@@ -1,7 +1,3 @@
-from ast import List
-"""
-Brute Force Functions
-
 def BruteForce_TwoSum(nums,target):
         for i in range(len(nums)-1):
             for j in range(i+1,len(nums)):
@@ -10,7 +6,7 @@ def BruteForce_TwoSum(nums,target):
 my_list = [2,3,5,6,7]
 target  = 9
 print(BruteForce_TwoSum(my_list, target))
-"""
+
 
 def Dictionary_TwoSum(nums,target):
     seen={}
