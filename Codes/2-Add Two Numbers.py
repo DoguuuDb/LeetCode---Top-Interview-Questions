@@ -20,7 +20,7 @@ class Solution(object):
 
 # Second one, Clean way.
 
-# We don't use reverse function at this solution. Because, we'r gonna summarize theese two listnode with simple way. 
+# We don't use reverse function at this solution. Because, we'r gonna add theese two listnode with simple way. 
 
 # l1 [2,4,3] l2 = [5,6,4]
 #  2 4 3
